@@ -14,7 +14,7 @@ This repository contains the Fast vision decoder (FViD), an object detection mod
  
  # Dataset
 
- In this notebook, the FViD is evaluated using 250 images of ships collected from six TerraSAR-X stripmap-mode synthetic aperture radar, with 2.0 m X 1.5 m resolution in the azimuth direction, acquired in Hongkong area between 2008-2010. The ground truth information from the AIS indicates that the dataset has images of bulk carrier, oil tanker, and container ships, each containing 150, 50, 50 sample images. The dataset is a classic example of a small, imbalance set, a perfect representative data for which the FViD is developed. 
+ [In this notebook](Fast_vision_decoder_for_ship_detection.ipynb), the FViD is evaluated using 250 images of ships collected from six TerraSAR-X stripmap-mode synthetic aperture radar, with 2.0 m X 1.5 m resolution in the azimuth direction, acquired in Hongkong area between 2008-2010. The ground truth information from the AIS indicates that the dataset has images of bulk carrier, oil tanker, and container ships, each containing 150, 50, 50 sample images. The dataset is a classic example of a small, imbalance set, a perfect representative data for which the FViD is developed. 
 
 
 # Novelty
